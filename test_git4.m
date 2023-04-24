@@ -1,7 +1,8 @@
-function test_git3
+function test_git5
 
 more stuff
 
+and more stuff
 
 this is a test it is pretty shit
 
